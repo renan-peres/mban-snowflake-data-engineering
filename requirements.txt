@@ -1,0 +1,8 @@
+# Snowflake Python packages
+snowflake-snowpark-python>=1.42.0
+snowflake>=1.9.0
+
+# Jupyter support (optional - for running notebooks)
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
