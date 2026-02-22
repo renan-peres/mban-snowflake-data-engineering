@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
 
 # Database files
@@ -80,6 +80,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.jupyter/
 
 # IPython
 profile_default/
@@ -139,6 +140,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.*
 .envrc
 .venv
 env/
@@ -194,6 +196,9 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# SQLFluff
+.sqlfluff
+
 # PyPI configuration file
 .pypirc
 
@@ -203,6 +208,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# VS Code workspace state
+.vscode/
 
 # Marimo
 marimo/_static/
@@ -215,5 +223,27 @@ __marimo__/
 # Mac stuff
 .DS_Store
 
+# Linux/Windows system files
+Thumbs.db
+Desktop.ini
+
 # Jupyter stuff
 .ipynb_checkpoints
+
+# Local data artifacts
+*.parquet
+*.feather
+*.orc
+*.csv
+*.tsv
+
+# Snowflake / cloud credentials and keys
+*.pem
+*.key
+*.p8
+*.p12
+*.snowsql
+
+# Logs and temporary files
+*.tmp
+*.bak

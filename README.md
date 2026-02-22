@@ -32,10 +32,10 @@ Build a complete, production-ready data pipeline using Python and Snowflake—tr
 
 | Resource | Link |
 |----------|------|
-| 📓 GitHub Repository | [Snowflake-Labs/pydata_boston_2025_notebook_to_pipeline](https://github.com/Snowflake-Labs/pydata_boston_2025_notebook_to_pipeline) |
 | ☁️ Snowflake Free Trial (120 days) | [Sign Up Here](https://signup.snowflake.com/?trial=student&cloud=aws&region=us-west-2) |
 | 🎥 Workshop Tutorial: Hands-On Data Engineering with Python  | [Youtube Video](https://www.youtube.com/watch?v=Rj4_atYG3MY&list=PLGVZCDnMOq0rhHGZp727T3aRoUYwXXxQJ&index=6) |
 | 🎥 Tutorial: Create External Users in Snowflake | [Youtube Video](https://www.youtube.com/watch?v=TqDXlVwoz1c) |
+| 🎥 Fabric vs Snowflake: Cost-Benefit & Competitor Analysis | [Youtube Video](https://www.youtube.com/watch?v=MsBWWlYcmu4) |
 
 ---
 
@@ -244,6 +244,7 @@ You'll build a pipeline for **Tasty Bytes**, a global food truck company that ne
 ## 📖 Resources
 
 ### Documentation
+- [Snowflake-Labs/pydata_boston_2025_notebook_to_pipeline](https://github.com/Snowflake-Labs/pydata_boston_2025_notebook_to_pipeline)
 - [Snowflake Dynamic Tables](https://docs.snowflake.com/en/user-guide/dynamic-tables-intro)
 - [Snowpark Python Developer Guide](https://docs.snowflake.com/en/developer-guide/snowpark/python/index)
 - [Snowflake Python API Reference](https://docs.snowflake.com/developer-guide/snowflake-python-api/reference/latest/index)
